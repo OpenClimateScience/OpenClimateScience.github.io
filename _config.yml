@@ -1,4 +1,4 @@
-remote_theme: janczizikow/sleek
+remote_theme: arthur-e/cause-jekyll-template
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Computational Climate Science Curriculum
