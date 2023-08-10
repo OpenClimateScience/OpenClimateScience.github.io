@@ -1,0 +1,5 @@
+remote_theme: janczizikow/sleek
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Computational Climate Science Curriculum
+description: Satellite Data and Models for Computational Climate or Agricultural Science
