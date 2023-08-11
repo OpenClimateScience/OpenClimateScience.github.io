@@ -72,6 +72,9 @@ nav {
 nav a, nav a:visited {
 	border-bottom: 2px solid $brand-color;
 }
+nav a:hover {
+	border-bottom: 8px solid $brand-color;
+}
 
 section {
 	padding: 60px 0;

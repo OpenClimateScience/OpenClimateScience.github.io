@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Our team"
+title: "Our Team | Open Climate Science for Agriculture"
 permalink: /team
 ---
 
