@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Looky here!"
+title: "Open Climate Science for Agriculture"
 permalink: /
 ---
 
@@ -8,15 +8,15 @@ permalink: /
 	<div class="container">
 		<div class="column">
 			<div>
-				<h1 class="editable">Give sheep the vote</h1>
-				<p class="editable">Sheep are the backbone of the economy yet they receive no compensation.</p>
+				<h1 class="editable">Open Climate Science for Agriculture</h1>
+				<p class="editable">Our curriculum teaches you how to use NASA satellite data and climate models for agricultural applications in a warming world</p>
 				<div class="button">
-					<a href="#donate">Donate Now</a>
+					<a href="#">Get Started</a>
 				</div>
 			</div>
 		</div>
 		<div class="column">
-			<img src="{{ site.baseurl }}/images/overview_figure.png" alt="Curriculum overview">
+			<img class="splash" src="{{ site.baseurl }}/images/overview_figure.png" alt="Curriculum overview">
 		</div>
 	</div>
 </header>

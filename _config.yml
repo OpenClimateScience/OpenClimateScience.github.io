@@ -5,4 +5,3 @@ description: Satellite Data and Models for Computational Climate or Agricultural
 # plugins:
 #   - jekyll-remote-theme # add this line to the plugins list if you already have one
 baseurl: ""
-

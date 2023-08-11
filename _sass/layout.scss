@@ -11,6 +11,7 @@ header {
 	padding-bottom: 50px;
 
 	@media #{$desktop} {
+
 		.container {
 			display: flex;
 		}
@@ -19,13 +20,12 @@ header {
 			flex: 1;
 
 			img {
-				max-width: none;
+				max-width: 560px;
 				width: 120%;
 			}
 
 			&:first-child {
 				display: flex;
-				justify-content: center;
 				align-items: center;
 				margin-right: 50px;
 			}
@@ -44,6 +44,27 @@ header, nav {
 		padding-top: 0;
 		padding-bottom: 0;
 	}
+}
+
+img.brand {
+	@media #{$desktop} {
+		max-width: 80px;
+	}
+}
+
+nav {
+	border-width: 0 0 4px 0;
+	border-color: $brand-color;
+}
+
+nav ul {
+	margin: 0 auto;
+	padding: 0;
+	list-style: none;
+}
+nav ul li {
+	float: left;
+	padding-right: 25px;
 }
 
 .donate {
@@ -180,6 +201,7 @@ footer {
 	padding: 40px 0;
 
 	&, a {
+		font-style: normal;
 		color: #eee;
 	}
 
