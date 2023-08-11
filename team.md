@@ -20,6 +20,9 @@ permalink: /team
 		<div class="column">
 			<div>
 				<h2 class="team">Walid Ouaret</h2>
+				<p>
+				Walid is a PhD student in Geographical Sciences at the University of Maryland, College Park, researching the effects of climate extremes on agricultural production and food security. He also serves as a co-Investigator (Co-I) for the NASA-funded computational climate-science curriculum.
+				</p>
 			</div>
 		</div>
 	</div>

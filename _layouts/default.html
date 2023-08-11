@@ -32,9 +32,6 @@
 
 				<div class="about">
 					<p>{{ site.data.company.mission_statement }}</p>
-				</div>
-
-				<div class="contact">
 					<address>
 						<a href="https://www.google.com/maps/place/{{ site.data.company.address | url_encode }}">
 							{% include icons/footer.html icon="place" %} {{ site.data.company.address_display }}
@@ -45,6 +42,16 @@
 							{% include icons/footer.html icon="email" %} {{ site.data.company.email }}
 						</a>
 					</p>
+				</div>
+
+				<div class="sponsors">
+					<a href="https://www.umt.edu" target="_blank">
+						<img class="logo" id="montana" src="{{ site.baseurl }}/images/UMontana_logo.png"/>
+					</a>
+					<a href="https://science.nasa.gov/open-science/transform-to-open-science" target="_blank">
+						<img class="logo" id="nasa" style="max-height: 120px"
+							src="{{ site.baseurl }}/images/TOPS_badge_NASA.png"/>
+					</a>
 				</div>
 
 			</div>

@@ -1,3 +1,10 @@
+a, a:visited {
+	color: $brand-color;
+	text-decoration: none;
+}
+
+a.nodeco { border: none; }
+
 html, body {
 	padding: 0;
 	margin: 0;
@@ -8,6 +15,13 @@ html, body {
 
 img {
 	max-width: 100%;
+}
+img.logo {
+	padding-left: 20px;
+}
+img.splash-right {
+	position: relative;
+	left: -50px;
 }
 
 hr {
@@ -54,6 +68,9 @@ nav {
 		fill: $brand-color;
 		height: 35px;
 	}
+}
+nav a, nav a:visited {
+	border-bottom: 2px solid $brand-color;
 }
 
 section {

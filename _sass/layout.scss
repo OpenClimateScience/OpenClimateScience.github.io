@@ -7,6 +7,10 @@
 	box-sizing: border-box;
 }
 
+footer .sponsors {
+	text-align: right;
+}
+
 header {
 	padding-bottom: 50px;
 
@@ -63,8 +67,9 @@ nav ul {
 	list-style: none;
 }
 nav ul li {
+	font-size: 1.3em;
 	float: left;
-	padding-right: 25px;
+	padding-right: 30px;
 }
 
 .donate {
@@ -81,7 +86,7 @@ nav .button {
 	@media #{$desktop} {
 		display: flex;
 	}
-	margin: 90px -15px 0 -15px;
+	margin: 60px -15px 0 -15px;
 	padding: 0;
 	list-style: none;
 
