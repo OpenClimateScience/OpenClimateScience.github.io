@@ -3,8 +3,12 @@
 	width: 100%;
 	margin: 0 auto;
 	position: relative;
-	padding: 50px 30px;
+	padding: 0px 30px 50px 30px;
 	box-sizing: border-box;
+}
+
+footer .container {
+	padding: 50px 30px;
 }
 
 footer .sponsors {
@@ -307,7 +311,7 @@ footer {
 		}
 
 		.date {
-			color: #ccc;
+			color: #aaa;
 			font-weight: bold;
 			font-size: 1.1rem;
 		}
@@ -384,6 +388,6 @@ footer {
 }
 
 .darker {
-	background: #f8fafb;
+	background: #efefef;
 	padding: 60px 0;
 }

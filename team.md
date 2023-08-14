@@ -30,11 +30,17 @@ permalink: /team
 		<div class="column">
 			<div>
 				<h2 class="team">Hannah Shafer</h2>
+				<p>
+				Hannah is a post-graduate in Geography at the University of Montana. She is leading the design of the curriculum's impact evaluation, which will be used to assess whether and how participants change their habits and adopt new tools after being exposed to our curriculum.
+				</p>
 			</div>
 		</div>
 		<div class="column">
 			<div>
 				<h2 class="team">Molly Brown, PhD</h2>
+				<p>
+				Molly is the <a href="https://www.6grain.com/" target="_blank">Chief Science Officer at 6th Grain</a> and a Co-Investigator (Co-I) for the NASA-funded computational climate-science curriculum.
+				</p>
 			</div>
 		</div>
 	</div>

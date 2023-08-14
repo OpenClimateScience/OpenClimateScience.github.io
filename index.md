@@ -42,16 +42,18 @@ permalink: /
 	</ul>
 </div>
 
-<div class="container">
-	<div class="columns">
-		<div>
-			<img class="splash splash-left" style="max-width: 340px" src="{{ site.baseurl }}/images/TOPS_badge_NASA.png" alt="NASA Transform to Open Science (TOPS) Badge">
-		</div>
-		<div>
-			<h2 class="editable">Transform to Open Science</h2>
-			<p class="editable">Our NASA-funded curriculum responds to an urgent need to train earth scientists in open and reproducible scientific practices, in order to accelerate discoveries, broaden participation, and increase understanding.</p>
-			<div class="button">
-				<a href="https://science.nasa.gov/open-science/transform-to-open-science" target="_blank">Learn More</a>
+<div class="darker">
+	<div class="container">
+		<div class="columns">
+			<div>
+				<img class="splash splash-left" style="max-width: 340px" src="{{ site.baseurl }}/images/TOPS_badge_NASA.png" alt="NASA Transform to Open Science (TOPS) Badge">
+			</div>
+			<div>
+				<h2 class="editable">Transform to Open Science</h2>
+				<p class="editable">Our NASA-funded curriculum responds to an urgent need to train earth scientists in open and reproducible scientific practices, in order to accelerate discoveries, broaden participation, and increase understanding.</p>
+				<div class="button">
+					<a href="https://science.nasa.gov/open-science/transform-to-open-science" target="_blank">Learn More</a>
+				</div>
 			</div>
 		</div>
 	</div>
