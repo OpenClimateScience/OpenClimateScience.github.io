@@ -3,7 +3,8 @@ a, a:visited {
 	text-decoration: none;
 }
 
-a.nodeco { border: none; }
+a.nodeco,
+a.nodeco:hover { border: none; }
 
 html, body {
 	padding: 0;
@@ -111,6 +112,11 @@ form {
 			background: darken($brand-color, 5%);
 		}
 	}
+}
+
+.bio p {
+	border-left: 5px $trim solid;
+	padding-left: 30px;
 }
 
 .button a, input[type="submit"], input[type="text"] {

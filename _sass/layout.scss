@@ -388,6 +388,10 @@ footer {
 }
 
 .darker {
-	background: #efefef;
+	background: $brand;
 	padding: 60px 0;
+}
+
+.darker .container {
+	padding-bottom: 0px;
 }
