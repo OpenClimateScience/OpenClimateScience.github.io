@@ -49,7 +49,7 @@ permalink: /team
 
 <div class="container" style="padding-top:50px;">
 	<h1 class="editable">Our Instructional Support Team</h1>
-	<h2 class="team">Kaci Ghiles, PhD</h2>
+	<h2 class="team">Ghiles Kaci, PhD</h2>
 	<p>Professor of Agronomy and Ecology at the University of Boumerdess</p>
 	<h2 class="team">Abdou Belkessam</h2>
 	<p>PhD student in Hydrology at École Nationale Supérieure Agronomique, Algiers, Algeria</p>
