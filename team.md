@@ -40,7 +40,7 @@ permalink: /team
 	<div class="container">
 		<h1 class="editable">Curriculum Advisory Committee</h1>
 		<h2 class="team">Mourad Latati, PhD</h2>
-		<p>Professor and researcher at École Nationale Supérior Agronomique, Algiers, Algeria</p>
+		<p>Professor and researcher at École Nationale Supérieure Agronomique, Algiers, Algeria</p>
 		<h2 class="team">Mohsen Nabil, PhD</h2>
 		<p>Remote sensing expert at the National Authority for Remote Sensing and Space Science, in the Agricultural Applications Department, Cairo, Egypt</p>
 	</div>
@@ -50,12 +50,12 @@ permalink: /team
 <div class="container" style="padding-top:50px;">
 	<h1 class="editable">Our Instructional Support Team</h1>
 
-	<h2 class="team">Kaci Ghiles, PhD</h2>
+	<h2 class="team">Ghiles Kaci, PhD</h2>
 	<p>Professor of Agronomy and Ecology at the University of Boumerdess</p>
 
 	<h2 class="team">Abdou Belkessam</h2>
 	<p>PhD student in Hydrology at École Nationale Supérior Agronomique, Algiers, Algeria</p>
 
 	<h2 class="team">Dounia Bourtache</h2>
-	<p>Master's student in Computer Science at the University of Boumerdes (UMBB), specializing in Software Engineering and Information Processing.</p>
+	<p>Master's student in Computer Science at the University of Boumerdes (UMBB), specializing in Software Engineering and Information Processing</p>
 </div>
