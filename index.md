@@ -52,7 +52,7 @@ permalink: /
                 <h2 class="editable">Transform to Open Science</h2>
                 <p class="editable">Our NASA-funded curriculum responds to an urgent need to train earth scientists in open and reproducible scientific practices, in order to accelerate discoveries, broaden participation, and increase understanding.</p>
                 <div class="button">
-                    <a href="https://science.nasa.gov/open-science/transform-to-open-science" target="_blank">Learn More</a>
+                    <a href="https://www.nasa.gov/centers-and-facilities/marshall/nasa-boosts-open-science-through-innovative-training/" target="_blank">Learn More</a>
                 </div>
             </div>
         </div>
