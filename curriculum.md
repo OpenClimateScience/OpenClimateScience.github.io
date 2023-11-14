@@ -10,7 +10,7 @@ permalink: /curriculum
 	</div>
 	<div class="container">
 		<p>
-		Our curriculum, <b>"Satellite Data and Models for Computational Climate or Agricultural Science,"</b> is composed of five (5) modules, each designed to be taught in about 4 hours. A brief description of each module is presented below; detailed information will be available later in 2023.
+		Our curriculum, <b>"Satellite Data and Models Informing Agricultural Science,"</b> is composed of five (5) modules, each designed to be taught in about 4 hours. A brief description of each module is presented below; detailed information will be available later in 2023.
 		</p>
 	</div>
 </header>
@@ -26,8 +26,8 @@ permalink: /curriculum
 				How are NASA satellites, field data, and models used to diagnose and predict Earth’s climate system? How is climate variability measured and modeled?
 				<ul>
 					<li>Learn how re-analysis data, General Circulation Models, and Earth Systems models are generated and how they differ</li>
-					<li>Discover where different climate datasets can be obatined, at different spatial and temporal scales</li>
-					<li>Read and plot different climate variables from NASA datsets</li>
+					<li>Discover where different climate datasets can be obtained, at different spatial and temporal scales</li>
+					<li>Read and plot different climate variables from NASA datasets</li>
 				</ul>
 			</div>
 		</div>
