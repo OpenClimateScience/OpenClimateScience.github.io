@@ -23,7 +23,7 @@ permalink: /curriculum
 			<div class="post-content">
 				<p class="date">Module 1</p>
 				<h3>Open Climate Data</h3>
-				How are NASA satellites, field data, and models used to diagnose and predict Earth’s climate system? How is climate variability measured and modeled?
+				What NASA satellites, field data, and models can be used to analyze and predict Earth's climate variability?
 				<ul>
 					<li>Learn how re-analysis data, General Circulation Models, and Earth Systems models are generated and how they differ</li>
 					<li>Discover where different climate datasets can be obtained, at different spatial and temporal scales</li>
@@ -37,7 +37,7 @@ permalink: /curriculum
 			<div class="post-content">
 				<p class="date">Module 2</p>
 				<h3>Computational Climate Science</h3>
-				How can we analyze gridded climate datasets with spatial and temporal attributes?
+				How can we analyze gridded climate datasets with spatial and temporal attributes? How is climate variability measured and modeled?
 				<ul>
 					<li>Describe the interpretation and calculation of climate normals, climate anomalies, and a climatology</li>
 					<li>Learn what indices are available for meteorological drought, soil moisture, drought, atmospheric water demand, and canopy greenness</li>
