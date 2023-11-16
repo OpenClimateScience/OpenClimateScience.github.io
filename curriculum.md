@@ -10,7 +10,7 @@ permalink: /curriculum
 	</div>
 	<div class="container">
 		<p>
-		Our curriculum, <b>"Satellite Data and Models Informing Agricultural Science,"</b> is composed of five (5) modules, each designed to be taught in about 4 hours. A brief description of each module is presented below; detailed information will be available later in 2023.
+		Our curriculum, <b>"Open Climate Science for Agriculture,"</b> is composed of five (5) modules, each designed to be taught in about 4 hours. A brief description of each module is presented below; detailed information will be available later in 2023.
 		</p>
 	</div>
 </header>
