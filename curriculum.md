@@ -10,7 +10,7 @@ permalink: /curriculum
 	</div>
 	<div class="container">
 		<p>
-		Our curriculum, <b>"Open Climate Science for Agriculture,"</b> is composed of five (5) modules, each designed to be taught in about 4 hours. A brief description of each module is presented below; detailed information will be available later in 2023.
+		Our curriculum, <b>"Open Climate Science for Agriculture,"</b> is composed of five (5) modules, each designed to be taught in about 4 hours. A brief description of each module is presented below. We're still developing the curriculum, so some modules may not be available yet.
 		</p>
 	</div>
 </header>
@@ -22,13 +22,14 @@ permalink: /curriculum
 			<div class="image" style="background-image:url(images/m1_art_climate_globe.jpg)"></div>
 			<div class="post-content">
 				<p class="date">Module 1</p>
-				<h3>Open Climate Data</h3>
+				<h3><a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data" target="_blank">Open Climate Data</a></h3>
 				What NASA satellites, field data, and models can be used to analyze and predict Earth's climate variability?
 				<ul>
 					<li>Learn how re-analysis data, General Circulation Models, and Earth Systems models are generated and how they differ</li>
 					<li>Discover where different climate datasets can be obtained, at different spatial and temporal scales</li>
 					<li>Read and plot different climate variables from NASA datasets</li>
 				</ul>
+			  <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data" target="_blank"><b>Learn on Github!</b></a>
 			</div>
 		</div>
 
