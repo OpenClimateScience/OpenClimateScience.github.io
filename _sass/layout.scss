@@ -7,6 +7,10 @@
 	box-sizing: border-box;
 }
 
+.container.sponsors {
+	padding: 25px 0 25px 0;
+}
+
 footer .container {
 	padding: 50px 30px;
 }
@@ -16,7 +20,6 @@ footer .sponsors {
 }
 
 header {
-	padding-bottom: 50px;
 
 	@media #{$desktop} {
 
@@ -57,6 +60,13 @@ header, nav {
 img.brand {
 	@media #{$desktop} {
 		max-width: 80px;
+	}
+}
+
+img#montana.logo {
+	@media #{$desktop} {
+	  height: 90px;
+	  vertical-align: super;
 	}
 }
 
@@ -311,7 +321,7 @@ footer {
 		}
 
 		.date {
-			color: #aaa;
+			color: #999;
 			font-weight: bold;
 			font-size: 1.1rem;
 		}
