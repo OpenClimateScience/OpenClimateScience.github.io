@@ -37,13 +37,14 @@ permalink: /curriculum
 			<div class="image" style="background-image:url(images/m2_art_grid_model.jpg)"></div>
 			<div class="post-content">
 				<p class="date">Module 2</p>
-				<h3>Computational Climate Science</h3>
+				<h3><a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science" target="_blank">Computational Climate Science</a></h3>
 				How can we analyze gridded climate datasets with spatial and temporal attributes? How is climate variability measured and modeled?
 				<ul>
-					<li>Describe the interpretation and calculation of climate normals, climate anomalies, and a climatology</li>
-					<li>Learn what indices are available for meteorological drought, soil moisture, drought, atmospheric water demand, and canopy greenness</li>
+					<li>Learn what indices are available for meteorological drought, soil moisture drought, atmospheric water demand, and soil water balance</li>
+					<li>Efficiently load and analyze big climate datasets, including long climate data records</li>
 					<li>Calculate a drought index</li>
 				</ul>
+				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science" target="_blank"><b>Learn on Github!</b></a>
 			</div>
 		</div>
 	</div>
