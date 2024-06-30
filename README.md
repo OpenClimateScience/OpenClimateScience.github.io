@@ -16,3 +16,9 @@ bundle config set --local path $LOCAL_RUBY_PATH
 
 bundle install
 ```
+
+Then, to preview your work:
+
+```sh
+sh deploy.sh
+```
