@@ -61,13 +61,14 @@ permalink: /curriculum
 			<div class="image" style="background-image:url(images/m3_art_water.jpg)"></div>
 			<div class="post-content">
 				<p class="date">Module 3</p>
-				<h3>Open Science for Water Resources</h3>
+				<h3><a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources" target="_blank">Open Science for Water Resources</a></h3>
 				What tools and datasets are available to quantify water quantity and availability?
 				<ul>
 					<li>Get acquainted with the major fluxes and pools of the terrestrial water cycle</li>
 					<li>Know where to access remotely sensed or modeled data on water storage anomalies, evapotranspiration, and soil moisture</li>
 					<li>Calculate a water budget</li>
 				</ul>
+				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources" target="_blank"><b>Learn on Github!</b></a>
 			</div>
 		</div>
 
