@@ -13,10 +13,25 @@ permalink: /workshops
 <div class="container">
 	<div class="posts">
 		<div class="post">
+			<div class="image" style="background-image:url({{ site.baseurl }}/images/workshop_Helena_202504.jpg)"></div>
+			<div class="post-content">
+				<p class="date">April 14, 2025 in Helena, MT, U.S.A.</p>
+				<h3><a href="{{ site.baseurl }}/workshops/2025-04-14-Helena">Working with Gridded Climate<br />Data in Python</a></h3>
+				In this workshop, based in the Python programming language, we introduce participants to NASA’s free-to-use climate datasets, demonstrating how to search for, access, and manipulate satellite-based and modeled data on air temperature, precipitation, soil moisture, and humidity, among many potential climate variables. Participants will be introduced to hierarchical data formats, including HDF5 and netCDF4, along with the xarray library in Python. Our workshop offers hands-on experience with subsetting, resampling, and visualizing spatial data cubes: gridded climate variables that vary over space and time.
+				<br /><br />
+				Workshop computing exercises will be based entirely in the Python programming language and learners are expected to bring their own laptops. <b>Participants should have prior experience with basic Python programming.</b> The instructor(s) of this workshop do not collect any money from participants or from MAGIP. The instructor(s) of this workshop are independently funded by NASA.
+				<ul>
+					<li><b>Morning:</b> <a href="https://github.com/OpenClimateScience/Python-Foundations/blob/master/03_Introduction_to_NumPy.ipynb" target="_blank">"Introduction to NumPy"</a></li>
+					<li><b>Afternoon:</b> <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data" target="_blank">"Open Climate Data"</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="post">
 			<div class="image" style="background-image:url({{ site.baseurl }}/images/workshop_Algiers_202406.jpg)"></div>
 			<div class="post-content">
 				<p class="date">June 24-27, 2024 in Algiers, Algeria</p>
-				<h3><a href="{{ site.baseurl }}/workshops/2024-06-23-Algiers">Engaging with Open Science for Agriculture<br />Using NASA Climate Data</a></h3>
+				<h3><a href="{{ site.baseurl }}/workshops/2024-06-23-Algiers">Engaging with Open Science for Agriculture Using NASA<br />Climate Data</a></h3>
 				A hybrid workshop at <i>Centre de Recherche en Économie Appliquée pour le Développement</i> (CREAD), Algiers, Algeria. The workshop consists of instructor-led, hands-on-keyboard computing exercises in the morning and guest lectures in the afternoons. The computing exercises will feature, over the last two days, our NASA-funded <i>ScienceCore</i> curriculum, which emphasizes the use of publicly available NASA data for reproducible climate- and agriculture-related studies.
 				<br /><br />
 				Workshop computing exercises will be entirely in Python and learners are expected to bring their own laptops; see <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data/blob/main/HOW_TO_INSTALL.md" target="_blank">Installation and Setup requirements here.</a> Workshop will be taught in English with French and Arabic facilitation; workshop materials will be made available in French and Arabic in late Summer 2024.
