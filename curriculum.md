@@ -49,7 +49,8 @@ permalink: /curriculum
 					<li>Efficiently load and analyze big climate datasets, including long climate data records</li>
 					<li>Calculate a drought index</li>
 				</ul>
-				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science" target="_blank"><b>Learn on Github!</b></a>
+				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science" target="_blank"><b>Learn on Github!</b></a>  |
+				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR" target="_blank"><b>Apprendre sur Github!</b></a>
 			</div>
 		</div>
 	</div>
