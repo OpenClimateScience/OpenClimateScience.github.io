@@ -43,6 +43,8 @@ permalink: /team
 		<p>Professor and researcher at École Nationale Supérieure Agronomique, Algiers, Algeria</p>
 		<h2 class="team">Mohsen Nabil, PhD</h2>
 		<p>Remote sensing expert at the National Authority for Remote Sensing and Space Science, in the Agricultural Applications Department, Cairo, Egypt</p>
+		<h2 class="team">Vrinda Desai, PhD</h2>
+		<p>Postdoctoral researcher with the North Carolina State University, at the intersection of climate, physics, and hazards</p>
 	</div>
 </div>
 
