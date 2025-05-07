@@ -13,6 +13,26 @@ permalink: /workshops
 <div class="container">
 	<div class="posts">
 		<div class="post">
+			<div class="image" style="background-image:url({{ site.baseurl }}/images/workshop_Algiers_202406.jpg)"></div>
+			<div class="post-content">
+				<p class="date">2025, Virtual and in Maryland, U.S.A.</p>
+				<h3><a href="{{ site.baseurl }}/workshops/2024-06-23-Algiers">SEEDS: Satellite-Enabled Earth Observation and Digital Solutions for Agriculture</a></h3>
+				The SEEDS program is a one-year, structured capacity-building initiative designed to bridge the gap between Earth Observation (EO) science and real-world agricultural applications. As agricultural systems face increasing challenges from climate change and food insecurity, the integration of satellite data, AI-driven analytics, and machine learning into agricultural decision-making has become crucial. SEEDS responds to this need by training a new generation of digital agriculture practitioners, including researchers, government agencies, private sector actors, agronomists, and early-career scientists.
+				<br/><br/>
+				<b>There are three workshops to be held, starting in 2025:</b>
+				<ul>
+					<li><b><a href="{{ site.baseurl }}/workshops/2025-06-01-SEEDS">June 2025: Foundational Workshop</a></b></li>
+					<li><b><a href="{{ site.baseurl }}/workshops/2025-10-01-SEEDS">October 2025: Hands-On Training Workshop</a></b></li>
+					<li><b><a href="{{ site.baseurl }}/workshops/2025-11-01-SEEDS">November 2025 - March 2026: Virtual Engagement</a></b></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="posts">
+		<div class="post">
 			<div class="image" style="background-image:url({{ site.baseurl }}/images/workshop_Helena_202504.jpg)"></div>
 			<div class="post-content">
 				<p class="date">April 14, 2025 in Helena, MT, U.S.A.</p>
