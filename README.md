@@ -22,3 +22,9 @@ Then, to preview your work:
 ```sh
 sh deploy.sh
 ```
+
+Alternatively, run this command:
+
+```sh
+bundle exec jekyll serve
+```
