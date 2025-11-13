@@ -10,6 +10,7 @@ permalink: /workshops
 	</div>
 </header>
 
+<!--
 <div class="container">
 	<div class="posts">
 		<div class="post">
@@ -29,6 +30,7 @@ permalink: /workshops
 		</div>
 	</div>
 </div>
+-->
 
 <div class="container">
 	<div class="posts">
