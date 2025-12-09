@@ -34,6 +34,12 @@ permalink: /team
 		Molly is the <a href="https://www.6grain.com/" target="_blank">Chief Science Officer at 6th Grain</a> and a Co-Investigator (Co-I) for the NASA-funded computational climate-science curriculum.
 		</p>
 	</div>
+	<div class="bio">
+		<h2 class="team">Ghiles Kaci, PhD</h2>
+		<p>
+		Dr. Ghiles Kaci is an Assistant Research Scientist at Texas A&M AgriLife Research. He is leading the development of Module 4.
+		</p>
+	</div>
 </div>
 
 <div class="darker">
@@ -51,10 +57,6 @@ permalink: /team
 
 <div class="container" style="padding-top:50px;">
 	<h1 class="editable">Our Instructional Support Team</h1>
-
-	<h2 class="team">Ghiles Kaci, PhD</h2>
-	<p>Professor of Agronomy and Ecology at the University of Boumerdess</p>
-
 	<h2 class="team">Abdou Belkessam</h2>
 	<p>PhD student in Hydrology at École Nationale Supérior Agronomique, Algiers, Algeria</p>
 

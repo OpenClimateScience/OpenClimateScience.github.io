@@ -69,7 +69,8 @@ permalink: /curriculum
 					<li>Know where to access remotely sensed or modeled data on water storage anomalies, evapotranspiration, and soil moisture</li>
 					<li>Calculate a water budget</li>
 				</ul>
-				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources" target="_blank"><b>Learn on Github!</b></a>
+				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources" target="_blank"><b>Learn on Github!</b></a>  |
+				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources-FR" target="_blank"><b>Apprendre sur Github!</b></a>
 			</div>
 		</div>
 
@@ -94,12 +95,13 @@ permalink: /curriculum
 			<div class="image" style="background-image:url(images/m5_art_center_pivots.jpg)"></div>
 			<div class="post-content">
 				<p class="date">Module 5</p>
-				<h3>Open Science for Crop Conditions and Crop Production</h3>
+				<h3><a href="https://github.com/OpenClimateScience/M5-Open-Science-for-Crops" target="_blank">Open Science for Crop Conditions and Crop Production</a></h3>
 				How can NASA datasets be used to map crop conditions?
 				<ul>
 					<li>Access and utilize satellite-based datasets on plant productivity, condition, and evapotranspiration</li>
 					<li>Understand how plants link between the carbon and water cycles through photosynthesis and evapotranspiration</li>
 				</ul>
+				<a href="https://github.com/OpenClimateScience/M5-Open-Science-for-Crops" target="_blank"><b>Learn on Github!</b></a>
 			</div>
 		</div>
 	</div>
