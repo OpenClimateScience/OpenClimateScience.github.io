@@ -78,12 +78,13 @@ permalink: /curriculum
 			<div class="image" style="background-image:url(images/m4_art_soil.jpg)"></div>
 			<div class="post-content">
 				<p class="date">Module 4</p>
-				<h3>Open Science for Soil Health</h3>
+				<h3><a href="https://github.com/OpenClimateScience/M4-Open-Science-for-Soil-Health" target="_blank">Open Science for Soil Health</a></h3>
 				How can satellite observations and models help to predict and map indicators of soil health?
 				<ul>
 					<li>Know what remote-sensing and model-derived datasets are available to map dynamic soil properties (pH, SOC, soil texture)</li>
 					<li>Understand the basics of statistical learning and how classifiers are trained and validated against independent data</li>
 				</ul>
+				<a href="https://github.com/OpenClimateScience/M4-Open-Science-for-Soil-Health" target="_blank"><b>Learn on Github!</b></a>
 			</div>
 		</div>
 	</div>
