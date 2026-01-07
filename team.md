@@ -37,7 +37,7 @@ permalink: /team
 	<div class="bio">
 		<h2 class="team">Ghiles Kaci, PhD</h2>
 		<p>
-		Dr. Ghiles Kaci is an Assistant Research Scientist at Texas A&M AgriLife Research. He is leading the development of Module 4.
+		Dr. Ghiles Kaci is an Assistant Research Scientist at Texas A&M AgriLife Research. He is also a Researcher at the University of Boumerdes (L'Université de Boumerdes), Algiers, Algeria. He is leading the development of Module 4.
 		</p>
 	</div>
 </div>
