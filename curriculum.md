@@ -12,7 +12,7 @@ permalink: /curriculum
 		<p>
 		Our curriculum, <b>"Open Climate Science for Agriculture,"</b> is composed of five (5) modules, each designed to be taught in about 4 hours. A brief description of each module is presented below. We're still developing the curriculum, so some modules may not be available yet.
 		<br /><br />
-		<a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR" target="_blank"><b>Parlez-vous français?</b> Our curriculum is also available in French!</a>
+		<a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR" target="_blank"><b>Parlez-vous français?</b> Our curriculum is also available in <b>French!</b></a> <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-AR" target="_blank">Also in <b>Arabic!</b></a>
 		</p>
 	</div>
 </header>
@@ -32,12 +32,9 @@ permalink: /curriculum
 					<li>Read and plot different climate variables from NASA datasets</li>
 				</ul>
 			  <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data" target="_blank"><b>Learn on Github!</b></a> |
-				<a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR" target="_blank"><b>Apprendre sur Github!</b></a>
-				<!--<br />
-				<a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR" target="_blank">🇺🇸</a> <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR" target="_blank">🇫🇷 🇩🇿</a>-->
+				<a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data" target="_blank">🇺🇸</a> <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-FR" target="_blank">🇫🇷</a> <a href="https://github.com/OpenClimateScience/M1-Open-Climate-Data-AR" target="_blank">🇩🇿</a>
 			</div>
 		</div>
-
 		<div class="post">
 			<div class="image" style="background-image:url(images/m2_art_grid_model.jpg)"></div>
 			<div class="post-content">
@@ -49,8 +46,8 @@ permalink: /curriculum
 					<li>Efficiently load and analyze big climate datasets, including long climate data records</li>
 					<li>Calculate a drought index</li>
 				</ul>
-				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science" target="_blank"><b>Learn on Github!</b></a>  |
-				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR" target="_blank"><b>Apprendre sur Github!</b></a>
+				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science" target="_blank"><b>Learn on Github!</b></a> |
+				<a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science" target="_blank">🇺🇸</a> <a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science-FR" target="_blank">🇫🇷</a> <a href="https://github.com/OpenClimateScience/M2-Computational-Climate-Science-AR" target="_blank">🇩🇿</a>
 			</div>
 		</div>
 	</div>
@@ -69,11 +66,10 @@ permalink: /curriculum
 					<li>Know where to access remotely sensed or modeled data on water storage anomalies, evapotranspiration, and soil moisture</li>
 					<li>Calculate a water budget</li>
 				</ul>
-				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources" target="_blank"><b>Learn on Github!</b></a>  |
-				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources-FR" target="_blank"><b>Apprendre sur Github!</b></a>
+				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources" target="_blank"><b>Learn on Github!</b></a> |
+				<a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources" target="_blank">🇺🇸</a> <a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources-FR" target="_blank">🇫🇷</a> <a href="https://github.com/OpenClimateScience/M3-Open-Science-for-Water-Resources-AR" target="_blank">🇩🇿</a>
 			</div>
 		</div>
-
 		<div class="post">
 			<div class="image" style="background-image:url(images/m4_art_soil.jpg)"></div>
 			<div class="post-content">
@@ -84,7 +80,8 @@ permalink: /curriculum
 					<li>Know what remote-sensing and model-derived datasets are available to map dynamic soil properties (pH, SOC, soil texture)</li>
 					<li>Understand the basics of statistical learning and how classifiers are trained and validated against independent data</li>
 				</ul>
-				<a href="https://github.com/OpenClimateScience/M4-Open-Science-for-Soil-Health" target="_blank"><b>Learn on Github!</b></a>
+				<a href="https://github.com/OpenClimateScience/M4-Open-Science-for-Soil-Health" target="_blank"><b>Learn on Github!</b></a> |
+				<a href="https://github.com/OpenClimateScience/M4-Open-Science-for-Soil-Health" target="_blank">🇺🇸</a> <a href="https://github.com/OpenClimateScience/M4-Open-Science-for-Soil-Health-FR" target="_blank">🇫🇷</a> <a href="https://github.com/OpenClimateScience/M4-Open-Science-for-Soil-Health-AR" target="_blank">🇩🇿</a>
 			</div>
 		</div>
 	</div>
@@ -102,7 +99,8 @@ permalink: /curriculum
 					<li>Access and utilize satellite-based datasets on plant productivity, condition, and evapotranspiration</li>
 					<li>Understand how plants link between the carbon and water cycles through photosynthesis and evapotranspiration</li>
 				</ul>
-				<a href="https://github.com/OpenClimateScience/M5-Open-Science-for-Crops" target="_blank"><b>Learn on Github!</b></a>
+				<a href="https://github.com/OpenClimateScience/M5-Open-Science-for-Crops" target="_blank"><b>Learn on Github!</b></a> |
+				<a href="https://github.com/OpenClimateScience/M5-Open-Science-for-Crops" target="_blank">🇺🇸</a> <a href="https://github.com/OpenClimateScience/M5-Open-Science-for-Crops-FR" target="_blank">🇫🇷</a> <a href="https://github.com/OpenClimateScience/M5-Open-Science-for-Crops-AR" target="_blank">🇩🇿</a>
 			</div>
 		</div>
 	</div>
